@@ -1,0 +1,2 @@
+# Creating-and-Managing-SQL-Databases-through-Linux-CLI
+In this project, creating and Managing the SQL Databases was successfully achieved through linux CLI (RHEL 7 | CentOS 7). For this project to be successfull, various users and department were created with their organizational credentials. The users were assigned a particular department and were uniquely identified through their department id by assigning a Foreign Key. Please refer the file attached below containg snapshots.
